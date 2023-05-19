@@ -14,7 +14,7 @@ import sys
 sys.path.append('pysrc')
 
 from distutils.core import setup
-import cellh5
+# import cellh5
 
 setup(name='cellh5',
       version = cellh5.version,
